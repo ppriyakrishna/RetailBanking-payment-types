@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Sensor Simulator -->
+	<string
+		name="fallarmonnitor">FallArm Monitor</string>
+	<string
+		name="connect">Start Monitoring</string>
+	<string
+		name="disconnect">Stop</string>
+	<string
+		name="sensor_simulator_data">Patient Sensor data:</string>
+	<string
+		name="deviceid">
+		Device ID: </string>
+    <string
+    name="message">
+		Message: </string>
+    <string
+    name="Location">
+		Location: </string>
+<string
+    name="ipaddress">
+		IP Address: </string>
+
+</resources>
